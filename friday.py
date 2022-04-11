@@ -49,8 +49,8 @@ Make your own bot using below source code.
 START_BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("Nᴇᴛᴡᴏʀᴋ", url="https://t.me/FriDayNetwork"),
-            InlineKeyboardButton("Sᴏᴜʀᴄᴇ", url="https://github.com/FriDayNetwork/FriDayMusic")
+            InlineKeyboardButton("Nᴇᴛᴡᴏʀᴋ", url="https://t.me/BotDuniyaXd"),
+            InlineKeyboardButton("Owner", url="https://t.me/Shubhanshutya")
         ]
     ]
 )
@@ -58,10 +58,10 @@ START_BUTTONS = InlineKeyboardMarkup(
 BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("⏯", callback_data="pause"),
+            InlineKeyboardButton("▷", callback_data="pause"),
             InlineKeyboardButton("‣", callback_data="resume"),
-            InlineKeyboardButton("⏭", callback_data="skip"),
-            InlineKeyboardButton("≠", callback_data="stop"),
+            InlineKeyboardButton("‣‣I", callback_data="skip"),
+            InlineKeyboardButton("▢", callback_data="stop"),
             InlineKeyboardButton("⌧", callback_data="mute"),
             InlineKeyboardButton("❚❚", callback_data="unmute")
         ],
