@@ -1,7 +1,7 @@
 pyrogram
 tgcrypto
-py-tgcalls
+py-tgcalls==0.6.0
 youtube_search
 pytube
-yt_dlp
-youtube_dl
+yt-dlp==2022.3.8.1
+youtube_dl==2021.12.17
